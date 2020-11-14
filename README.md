@@ -10,7 +10,7 @@ Y11 (for example) = 1/Impedances(for all buses connected) + Half Line Admittance
 Non-Diagnol Elements 
 Y12 = -y12 = -y21 (ie negative of admittance of the connected buses)
 
-General Method
+General Method (Ybus)
 --------------
   
   - Input the admittances
@@ -19,7 +19,7 @@ General Method
   - All elements (including diagnol) of the loop will only need to update once
   
   
-Method 1
+Method 1 (YbusCode1)
 --------
 
  - Only 1 for loop required

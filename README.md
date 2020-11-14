@@ -26,7 +26,7 @@ General Method (Ybus)
   - All elements (including diagnol) of the loop will only need to update once
   
   
-Method 1 (YbusCode1)
+Second approach (YbusCode1)
 --------
 
  - Only 1 for loop required
